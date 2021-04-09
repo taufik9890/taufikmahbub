@@ -1,0 +1,1275 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+/*========BANNER========*/
+    .banner-text {
+	    margin-top: 50px;
+    }
+    
+    .banner-address {
+	    margin-top: 50px;
+    }
+    
+    .social-icon {
+	    margin-top: 50px;
+    }
+       
+/*========ABOUT========*/ 
+    .page-heading-bg {
+	    margin-top: -27px;
+    }
+    
+    
+      .interest-text {
+	    padding: 5px 0px;
+    }
+    
+    
+/*========SKILLS========*/
+    
+    #skills {
+	    padding: 90px 0px 60px 0px;
+    }
+    
+   .tecnical-skill {
+	    padding: 90px 0px 80px 0px;
+    }
+    
+    .skills-bar {
+	    margin-bottom: 5px;
+    }
+    
+   .knowledge-section {
+	    padding: 90px 0px 62px 0px;
+    }
+    
+    .basic-knowledge {;
+	    margin-bottom: 28px;
+    }
+    
+   
+    .experiance-details {
+	    margin-bottom: 30px;
+    }
+    
+    .experiance-text h6{
+        font-size: 16px;
+    }
+    
+/*========SERVICES========*/
+    .service-heading {
+	    margin-bottom: 11px;
+    }
+    
+    .service-details {
+	    margin-top: 55px;
+    }
+    
+    .team-hover {
+	    height: 100%;
+
+    }
+    .team-hover a {
+	    margin-left: 11px;
+    }
+    
+     .work {
+	    padding: 90px 0px;
+	    padding-top: 105px;
+    }
+    
+    .work-heading {
+	    margin-top: -9px;
+    }
+    
+    
+/*========PORTFOLIO========*/
+    .portfolio-hover{
+        padding: 5px 0px;
+    }
+    
+    .portfolio-hover h6 {
+        font-size: 13px;
+    }
+    
+    .bloog-text {
+	    padding: 30px 19px;
+    }
+    
+    .card-2 h6 {
+	    font-size: 11px;
+    }
+    
+  
+    
+}/*----------------------------------*/
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+/*========BANNER=======-*/
+    .banner-text {
+	    margin-top: 30px;
+    }
+    
+    .banner-text h5 {
+	    font-size: 20px;
+    }
+    
+    .banner-text h1 {
+	    font-size: 30px;
+        margin-top: -5px;
+        margin-bottom: 27px
+    }
+    
+    .banner-text h4 {
+	    margin-top: -9px;
+    }
+    
+    .banner-text p {
+	    margin-top: -3px;
+    }
+    
+    .banner-address {
+	    margin-top: 85px;
+	    margin-right: 25px;
+    }
+    
+    .social-icon {
+	    margin-top: 30px;
+    }   
+    
+    #contact {
+	    padding: 90px 0px 90px 0px;
+	    background: #ddd;
+    }
+    
+/*========ABOUT========*/
+    
+  .about-img-details {
+        margin-top: 65px;
+    }
+    
+   .about-img {
+	    margin-top: 10px;
+    
+    }
+    
+    .about-img-details::before {
+	    width: 100%;
+	    bottom: 9px;
+	    right: 20px;
+    }
+
+    .about-text {
+	    margin-left: 40px;
+
+    }
+    
+   .about-text h5 {
+	    font-size: 20px;
+	    margin: 0px;
+	    margin-top: -5px;
+    }
+
+    .about-text p {
+        font-size: 14px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .list-system li {
+        font-size: 16px;
+    }
+
+    .list-system li i {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    .list-system li span {
+        font-size: 16px;
+    }
+
+    .about-text .common-btn {
+        margin: 0px;
+        margin-top: 10px;
+    }
+
+    
+/*========SKILLS========*/
+
+
+
+/*=======TECNICAL========*/
+    .tecnical-skill{
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+/*=======SERVICE========*/
+
+
+/*=======PORTFOLIO========*/
+    .portfolio-hover h6 {
+        font-size: 14px;
+    }
+
+
+/*=======CONTACT========*/
+  
+    
+/*================
+    ABOUT PAGE  
+================*/
+/*-----PRICINF-----*/ 
+    .pricing {
+	    padding: 90px 0px 120px 0px;
+    }
+    
+    .page-heading-bg {
+	    margin-top: -27px;
+
+    }
+    
+    .pricing-text::before {
+	    top: -254px;
+	    left: -131px;
+    }
+  
+    .pricing-text {
+	    margin-bottom: -30px;
+    }
+    
+    
+    #slider .common-btn {
+	    margin-bottom: -5px;
+	    margin-top: 24px;
+    }
+    .carousel-adjust p {
+	    font-size: 15px;
+    }
+    
+    .clinet-img {
+	    width: 98px;
+    }
+    
+/*========================
+       SKILLS PAGE  
+==========================*/   
+/*-----knowledge-----*/   
+    .knowledge-section {
+	    padding: 90px 0px 62px 0px;
+    }
+    
+    .knowledge{
+        margin-bottom: 50px
+    }
+    
+    .knowledge-text {
+         margin-top: 0px; 
+    }
+    
+    .basic-knowledge {
+	    margin-bottom: 28px;
+    }
+    
+    .basic-knowledge p{
+        font-size: 11px;
+    }
+    
+    .testimonial-heading {
+	    margin-bottom: 67px;
+    }
+    
+/*========================
+       SKILLS PAGE  
+=========================*/   
+/*-----team-----*/ 
+    .team-hover {
+	    height: 100%;
+    }
+    
+    .team-hover a {
+	    margin-left: 35px;
+    }
+    
+
+    
+    
+    
+    
+/*========================
+    SERVICES PAGE  
+=========================*/
+    
+    #service {
+	    padding: 90px 0px 115px 0px;
+    }
+    .service-heading {
+	    margin-bottom: 10px;
+    }
+    
+    
+    .service-details {
+	    margin-top: 55px;
+	    margin-bottom: -26px;
+    }
+
+    
+    
+}/*------------------------------*/
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+/*========NAV========*/
+    .navbar {
+        background: #212121;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .navbar-nav .nav-item .nav-link:hover::after {
+        transform: scale(.5);
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link.active:after {
+        transform: scale(.5);
+    }
+
+/*========BANNER========*/
+    #banner{
+        padding-top: 100px;
+        padding-bottom: 32px;
+    }
+    
+    .banner-text{
+        margin-top: 0px;
+    }
+    
+    .banner-text h5 {
+	    font-size: 20px;
+        margin-bottom: 0px;
+    }
+    
+    .banner-text h1 {
+	    font-size: 30px;
+        margin: 10px 0px;
+        margin-bottom: 17px
+    }
+    
+    .banner-text h4 {
+	    font-size: 25px;
+	    margin-top: -9px;
+        margin-bottom: 5px;
+    }
+    
+    .banner-text p {
+	    margin-top: -2px;
+        margin-bottom: -7px
+    }
+
+    .banner-address {
+	    margin-top: 42px;
+	    margin-right: 25px;
+	    padding-bottom: 8px;
+        margin-bottom: 25px;
+    }
+    
+   .social-icon {
+	    float: left;
+	    margin-top: -5px;
+    }
+
+    .social-icon li {
+	    float: left;
+	    margin-right: 15px;
+    }
+    
+
+/*========ABOUT========*/
+    #about{
+        padding-top: 70px;
+        padding-bottom: 70px
+    }
+    
+    .about-heading h2{
+        font-size: 30px;
+        margin-bottom: -10px;
+    }
+    
+    .about-img {
+        margin-left: 30%;
+    }
+
+    .about-img-details::before {
+	    width: 100%;
+	    bottom: 25px;
+	    left: 65px;
+    }
+    
+    .about-text h5{
+        margin-top: -30px;
+        font-size: 25px;
+    }
+    
+    #about .common-btn{
+        left: 28%;
+    }
+    
+/*========SKILL========*/
+    #skills {
+	    padding-top: 70px;
+	    padding-bottom: 75px;
+    }
+    
+    .skills-heading {
+	    margin-bottom: 12px;
+    }
+    
+    .skills-heading h2 {
+	    font-size: 30px;
+	    margin-bottom: -10px;
+    }
+    
+    .experiance {
+	    margin-top: 40px;
+    }
+    
+    .experiance-text {
+	margin-bottom: -34px;
+}
+    
+/*=====TECNICAL SKILLS=====*/
+    .tecnical-skill{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    
+    .tecnic-heading h2{
+        font-size: 30px;
+        margin-bottom: 13px;
+    }
+    
+    .skills {
+	    margin-top: 30px;
+    }
+    
+    .skills-bar{
+        margin-top: 10px;
+    }
+    
+    .skills-img{
+        margin-top: 5px;
+    }
+    
+/*======SERVICEL======*/
+    #service{
+        padding-top: 70px;
+        padding-bottom: 85px;
+    }
+    
+    .service-heading h2{
+        font-size: 30px;
+        margin-bottom: -35px;
+    }
+    
+    .service-details h5 {
+	    font-size: 16px;
+    }
+    
+    .service-details {
+	    margin-top: 45px;
+	    margin-bottom: -15px;
+    }
+    
+    .service-details::after {
+	    top: -129px;
+	    left: -237px;
+    }
+    
+    
+    
+/*======PORTFOLIO======*/
+    #porifolio{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    
+    .portfolio-heading h2{
+        font-size: 30px;
+        margin-bottom: -10px;
+    }
+    
+    .portfolio-filter {
+	     margin-top: 45px; 
+    }
+    
+    .common-btn {
+        padding: 5px 15px;
+    }
+    
+    .portfolio-hover {
+	    padding: 5px 0px;
+    }
+
+    .portfolio-hover h6 {
+        font-size: 9px;
+        margin-bottom: -5px;
+    }
+
+    .portfolio-hover p {
+        font-size: 9px;
+    }
+
+/*========CONTACT========*/
+    #contact{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    
+    .contact-heading h2{
+        font-size: 30px;
+        margin-bottom: 45px;
+    }
+
+    .contact-heading{
+        margin-bottom: 30px;
+    }
+    
+/*========FOOTER========*/
+    footer .footer-text p {
+	    font-size: 13px;
+    }
+
+/*====================
+    ABOUT PAGE  
+====================*/
+    .page-heading-bg {
+	    padding: 60px 0px 25px 0px;
+	    margin-top: -6px;
+	    margin-bottom: -6px;
+    }
+    
+    .my-breadcrumb {
+    /*	margin-bottom: 33px;*/
+    }
+    
+    
+    .interest{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    
+    .interest-heading h2{
+        font-size: 30px;
+        margin-bottom: -20px;
+    }
+    
+    .pricing{
+        padding-top: 70px;
+        padding-bottom: 48px;
+    }
+    
+    .pricing-heading h2{
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    
+    .pricing-text{
+        margin-top: 30px;
+        margin-bottom: 22px;
+    }
+    
+    .testimonial{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    
+    .testimonial-heading h2{
+        font-size: 30px;
+        margin-bottom: -20px;
+    }
+    
+    #slider .common-btn {
+	    margin-bottom: -5px;
+	    margin-top: 21px;
+    }
+    
+    .carousel-adjust p {
+	    font-size: 13px;
+	    line-height: 24px;
+    }
+    
+    
+    
+/*====================
+   SKILLS PAGE  
+====================*/
+    .knowledge-section {
+	    padding-top: 70px;
+	    padding-bottom: 40px;
+    }
+    
+    .knowledge h2{
+        font-size: 30px;
+        margin-bottom: 45px;
+    }
+    
+    .knowledge-text{
+        margin-top: -15px;
+    }
+    
+    .knowledge-details{
+        margin-bottom: 19px;
+    }
+    
+    .knowledge-details p{
+        font-size: 15px;
+    }
+    
+    .basic-knowledge {
+	    padding: 0px 10px;
+    }
+    
+     .knowledge-details p i{
+        margin: 0px;
+    }
+    
+/*====================
+    SERVICE PAGE  
+====================*/    
+    
+    #team-section{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    } 
+    
+    .team-heading h2{
+        font-size: 30px;
+        margin-bottom: -23px;
+    }
+    
+    .team-hover {
+	    height: 100%;
+    }
+    
+    .team-hover a {
+	    margin-left: 20px;
+    }
+    
+    .work{
+        padding-top: 70px;
+        padding-bottom: 75px;
+    }
+    
+    .work-heading h2{
+        font-size: 30px;
+        margin-bottom: -20px;
+    }
+    
+    .work-text{
+        margin-bottom: -7px; 
+    }
+    
+/*====================
+    PORTFOLIO PAGE  
+====================*/
+    
+    #bloog{
+        padding-top: 70PX;
+        padding-bottom: 70px;
+    }  
+    
+    .bloog-heading h2{
+        font-size: 30px;
+        margin-bottom: -20px;
+    }
+    
+    .bloog-text {
+	    padding: 30px 10px 20px 10px;
+    }
+    
+    .bloog-text-title {
+	    font-size: 14px;
+	    margin: 0px;
+	    padding: 4px 8px;
+    }
+    
+    .blog-link {
+	    font-size: 14px;
+	    margin-top: 25px;
+	    line-height: 28px;
+	    margin-bottom: 15px;
+    }
+    
+    .bloog-text p {
+	    text-align: left;
+    }
+    
+  
+    
+    
+    
+}/*---------------------------*/ 
+
+@media(max-width: 575px) {
+
+/*========NAV========*/
+
+    .navbar-nav .nav-item .nav-link {
+        color: #79244D;
+        font-size: 12px;
+    }
+
+    .navbar-nav .nav-item .nav-link:hover::after {
+        transform: scale(.5);
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link.active:after {
+        transform: scale(.5);
+    }
+
+/*========BANNER========*/
+    #banner{
+        padding-bottom: 60px;
+    }
+    .banner-text {
+        margin-top: 0px;
+    }
+
+   .banner-text h5 {
+	    font-size: 15px;
+	    margin-bottom: -4px;
+    }
+
+    .banner-text h1 {
+        font-size: 20px;
+    }
+    
+    .banner-text h4 {
+        font-size: 15px;
+        margin-top: 3px;
+         margin-bottom: -3px;
+    }
+
+    .banner-text p {
+        width: 85%;
+        font-size: 14px;
+        margin-top: 4px;
+        margin-bottom: -10px;
+    }
+
+    .common-btn {
+        padding: 5px 10px;
+        margin-bottom: 15px
+    }
+
+    .banner-address {
+        margin-top: 0px;
+        margin-right: 20px;
+        margin-bottom: 16px;
+        padding-bottom: 10px;
+    }
+    
+    .banner-address h6{
+        font-size: 14px;
+        margin-top: -5px;
+    }
+    
+    .banner-address p{
+        font-size: 16px;
+        margin-top: -3px;
+    }
+
+    .social-icon {
+        float: left;
+        margin-top: 3px;
+        margin-bottom: 0px;
+    }
+
+    .social-icon li {
+        float: left;
+        margin: 0px;
+    }
+
+    .social-icon li a {
+        margin-right: 18px;
+        border: 1px solid #f21e4e;
+    }
+
+/*========ABOUT========*/
+    
+    #about{
+        padding-top: 56px;
+        padding-bottom: 60px; 
+    }
+    
+     .about-heading h2{
+        font-size: 25px;
+    }
+    
+    .about-img-details{
+        margin-top: 22px;
+    }
+    
+    .about-img-details::before {
+        display: none;
+    }
+
+    .about-text h5 {
+        font-size: 20px;
+        margin-top: -29px;
+        margin-bottom: 7px;
+    }
+
+   .about-text p {
+	    font-size: 14px;
+	    margin-bottom: -7px;
+	    margin-top: 15px;
+    }
+    
+    .list-system {
+        margin-bottom: 5px;
+    }
+
+    .list-system li span {
+        font-size: 16px;
+    }
+
+    .list-system li {
+        font-size: 14px;
+    }
+
+    .list-system li i {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    
+    .about-text .common-btn {
+	    margin-bottom: 0px;
+	    margin-top: 19px;
+    }
+    
+    .about-list {
+	    margin-top: 25px;
+    }
+    
+
+/*=======SKILLS=======*/
+    #skills{
+        padding-top: 57px;
+        padding-bottom: 55px;
+    }
+    
+   .skills-heading h2 {
+	    font-size: 25px;
+    }
+    
+   .experiance {
+	    margin-top: 67px;
+       margin-bottom: 0px;
+    }
+    
+    .experiance h5 {
+	    font-size: 20px;
+	    margin-top: -50px;
+        margin-bottom: -2px;
+    }
+
+    .experiance-details {
+	    margin-bottom: 6px;
+	    margin-top: 27px;
+    }
+    
+    .experiance-details h6     {
+        font-size: 16px;
+    }
+
+
+    .experiance-details .year {
+        font-size: 14px;
+    }
+
+
+    .experiance-details .year::after {
+        bottom: 25px;
+    }
+
+    .experiance-details p {
+        font-size: 14px;
+    }
+
+/*====TECNICAL SKILLS====*/
+    
+    .tecnical-skill{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    
+    .tecnic-heading{
+        margin-top: 2px;
+    }
+    
+    .skills {
+	    margin-top: 25px;
+    }    
+    
+    .skills-bar {
+	    margin-top: 5px;
+    }
+    
+    .tecnic-heading H2 {
+        font-size: 25px;
+    }
+    
+    .skills-img{
+        margin-top: 0px;
+    }
+
+/*=====SERVICE=====*/
+    
+    #service{
+        padding-top: 53px; 
+        padding-bottom: 63px;
+    }
+    
+    .service-heading {
+	    margin-bottom: 7px;
+	    margin-top: 8px;
+    }
+    
+    .service-heading h2{
+        font-size: 25px;
+    }
+    
+    .service-details {
+	    margin: 24px 10px -4px 10px;
+	    padding: 20px;
+    }
+
+/*=====PORTFOLIO=====*/
+    
+    #porifolio{
+        padding-top: 57px;
+        padding-bottom: 60px;
+    }
+    
+    .portfolio-heading {
+        margin-bottom: 7px;
+    }
+    
+    .portfolio-heading h2{
+        font-size: 25px;
+    }
+    
+    .portfolio-filter {
+	    margin-bottom: 10px;
+	    margin-top: 25px;
+    }
+    
+    .portfolio-item{
+        margin-top: 19px;
+    }
+    
+    .portfolio-filter .common-btn {
+        font-size: 11px;
+        padding: 5px 7px;
+        margin: 0px;
+    }
+
+    .portfolio-item h6 {
+        font-size: 12px;
+    }
+
+    .portfolio-hover {
+	    padding: 8px 0px;
+    }
+
+
+/*=====CONTACT=====*/
+    
+    #contact{
+        padding-top: 57px;
+        padding-bottom: 45px;
+    }
+    
+    .contact-heading h2{
+        font-size: 25px;
+        margin-bottom: -22px;
+    }
+    
+    #contact .card-2 {
+	    margin-bottom: 31px;
+	    padding: 0px;
+	    margin-top: -13px;
+    }
+    
+    .map {
+	    margin-top: -30px;
+        margin-bottom: 30px;
+    }
+    
+    .form-group {
+	    margin-bottom: 30px;
+	    margin-top: -12px;
+    }
+    
+/*=====FOOTER=====*/ 
+    footer .footer-text p {
+	    color: #fff;
+	    font-size: 10px;
+    }
+    
+/*=========================
+       ABOUT PAGE  
+=========================*/
+  .page-heading-bg {
+	    padding: 45px 0px 6px 0px;
+    }
+    
+    .my-breadcrumb {
+        margin-top: 14px;
+
+    }
+    
+    
+    
+/*=====INTERST=====*/
+    .interest{
+        padding-top: 57px;
+        padding-bottom: 70px;
+    }
+    
+    .interest-heading {
+	    margin-bottom: 2px;
+    }
+    
+    .interest-heading h2{
+        font-size: 25px;
+    }
+    
+    .interest-text{
+        margin-bottom: -10px;
+    }
+  
+    
+/*=====PRICING=====*/
+    
+    .pricing{
+        padding-top: 57px;
+        padding-bottom: 75px;
+    } 
+    
+    .pricing-heading{
+        margin-bottom: -9px;
+    }
+    
+    .pricing-heading h2{
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    
+   .pricing-text {
+	    margin-left: 10px;
+	    margin-right: 10px;
+	    margin-bottom: -15px;
+	    padding-bottom: 10px;
+	    margin-top: 40px;
+        background: #f21e4e;
+        color: #fff;
+    }
+    
+    .pricing-text:hover {
+	    transform: scale(1.1);
+        background: #f21e4e;
+        color: #fff;
+    }
+    
+   .pricing-text::before {
+	    display: none;
+    }
+    
+    .pricing-text p span {
+	color: #fff;
+    }
+    
+    .pricing-text:hover h6 {
+	    color: #fff;
+    }
+    
+    .pricing-text:hover.pricing-text i {
+	    background: #ddd; 
+	    color: #f21e4e;
+    }
+    
+    .pricing-text .common-btn {
+	    background: none;
+	    color: #f21e4e;
+	    border: 1px solid #ddd;
+    }
+    
+/*=====TESTIMONIAL=====*/
+    
+    .testimonial {
+	    padding-top: 57px;
+	    padding-bottom: 60px;
+    }
+    
+    .testimonial-heading h2 {
+	    font-size: 25px;
+	    margin-bottom: 32px;
+    }
+    
+    .testimonial-heading{
+        margin-bottom: 10px;
+    }
+    
+    .carousel-adjust{
+        padding: 0px;
+    }  
+    
+    #slider .common-btn {
+	    margin-bottom: 18px;
+	    margin-top: 0px;
+        padding: 2px 5px;
+    }
+    
+    .carousel-adjust p {
+	    font-size: 10px;
+	    margin: 0px;
+	    line-height: 18px;
+	    margin-bottom: 25px;
+    }
+    
+    .clinet-img {
+	    width: 80px;
+	    border: 3px solid #f21e4e;
+    }
+    
+    
+    
+    
+/*=========================
+       SKILLS PAGE 
+==========================*/   
+/*=====KNOWLEDGE=====*/
+    .knowledge-section{
+        padding-top: 57px;
+        padding-bottom: 40px;
+    } 
+    
+    .knowledge h2{
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    
+    .knowledge-text{
+        margin-top: -15px; 
+    }
+    
+    .knowledge-details {
+	    padding: 0px;
+	    margin-bottom: -10px;
+    }
+    
+    .basic-knowledge p{
+        font-size: 10px;
+    }
+    
+/*=========================
+       SERVICES PAGE 
+==========================*/ 
+/*=====TEAM=====*/ 
+    #team-section{
+        padding-top: 57px;
+        padding-bottom: 60px;
+
+    }
+    
+    .team-heading h2 {
+	    font-size: 25px;
+	    margin-bottom: 10px;
+    }
+    
+    .team-heading{
+        margin-bottom: 0px;
+    }
+    
+    .team {
+	    margin-top: 20px;
+    }
+    
+    .team-hover {
+	    height: 100%;
+    }
+    
+    
+    
+/*=====WORK=====*/   
+    .work {
+	padding-top: 57px;
+	padding-bottom: 37px;
+}
+    
+    .work-heading h2{
+        font-size: 25px;
+    }
+    
+    .work-text{
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    
+    
+/*=========================
+    PORTFOLIO PAGE 
+==========================*/   
+/*=====BLOOG=====*/ 
+    #bloog {
+	    padding-top: 57px;
+	    padding-bottom: 37px;
+    }
+    
+    .bloog-heading h2{
+        font-size: 25px
+    }
+    
+    .bloog-details{
+        margin-top: -4px;
+        margin-bottom: 24px;
+    }
+    
+    .bloog-text-title {
+	    padding: 5px 4px;
+    }
+    
+    .poster-date {
+	    top: -3px;
+    }
+    
+    .blog-link {
+	    font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 5px
+    }
+    
+    .bloog-text p {
+	    font-size: 14px;
+        text-align: left;
+    }
+    
+    
+}/*-------------------------------*/
+
+
+
+
+
+
+
+
+
+
+

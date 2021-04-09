@@ -1,0 +1,92 @@
+
+/*========================
+ CAROUSELE SLIDER START
+========================*/
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-img-1{
+    background: linear-gradient(#00000080, #00000080), 
+        linear-gradient(#00000080, #00000080), 
+        url('../images/slide1.jpg');
+    background-size: cover;
+}
+
+.carousel-img-2{
+    background: linear-gradient(#00000080, #00000080), 
+        linear-gradient(#00000080, #00000080), 
+        url('../images/slide2.jpg');
+    background-size: cover;
+}
+
+.carousel-img-3{
+    background: linear-gradient(#00000080, #00000080), 
+        linear-gradient(#00000080, #00000080), 
+        url('../images/slide3.jpg');
+    background-size: cover;
+}
+
+.clinet-img {
+    border-radius: 50%;
+    width: 100px;
+    border: 5px solid #79244D;
+    margin-bottom: 20px;
+}
+
+#slider .common-btn {
+	margin-bottom: 18px;
+	margin-top: 28px;
+}
+
+.carousel-adjust {
+	padding: 50px 0px 25px 0px;
+}
+
+
+
+
+/*========================
+   CAROUSELE SLIDER END
+========================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
